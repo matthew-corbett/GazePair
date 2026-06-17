@@ -1,4 +1,4 @@
-# GazePair
+# GazePair: Efficient Pairing of Augmented Reality Devices Using Gaze Tracking
 GazePair Implementation. A prototype system designed to securely pair two or more AR devices using eye gaze.  Research paper is here: https://arxiv.org/abs/2303.07404
 
 To use:
